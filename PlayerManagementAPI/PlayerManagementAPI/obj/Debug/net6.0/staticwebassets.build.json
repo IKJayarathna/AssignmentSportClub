@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qnRmTPGvn/ISgTvAY77DPkbL5WtTTQiXM5XxZdSPgX4=",
+  "Source": "PlayerManagementAPI",
+  "BasePath": "_content/PlayerManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

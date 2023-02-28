@@ -1,0 +1,14 @@
+C:\MyFolder\Interview\CodingTest\PlayerManagementAPI\PlayerManagementDAL\bin\Debug\net6.0\PlayerManagementDAL.deps.json
+C:\MyFolder\Interview\CodingTest\PlayerManagementAPI\PlayerManagementDAL\bin\Debug\net6.0\PlayerManagementDAL.runtimeconfig.json
+C:\MyFolder\Interview\CodingTest\PlayerManagementAPI\PlayerManagementDAL\bin\Debug\net6.0\PlayerManagementDAL.dll
+C:\MyFolder\Interview\CodingTest\PlayerManagementAPI\PlayerManagementDAL\bin\Debug\net6.0\PlayerManagementDAL.pdb
+C:\MyFolder\Interview\CodingTest\PlayerManagementAPI\PlayerManagementDAL\obj\Debug\net6.0\PlayerManagementDAL.csproj.AssemblyReference.cache
+C:\MyFolder\Interview\CodingTest\PlayerManagementAPI\PlayerManagementDAL\obj\Debug\net6.0\PlayerManagementDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFolder\Interview\CodingTest\PlayerManagementAPI\PlayerManagementDAL\obj\Debug\net6.0\PlayerManagementDAL.AssemblyInfoInputs.cache
+C:\MyFolder\Interview\CodingTest\PlayerManagementAPI\PlayerManagementDAL\obj\Debug\net6.0\PlayerManagementDAL.AssemblyInfo.cs
+C:\MyFolder\Interview\CodingTest\PlayerManagementAPI\PlayerManagementDAL\obj\Debug\net6.0\PlayerManagementDAL.csproj.CoreCompileInputs.cache
+C:\MyFolder\Interview\CodingTest\PlayerManagementAPI\PlayerManagementDAL\obj\Debug\net6.0\PlayerManagementDAL.dll
+C:\MyFolder\Interview\CodingTest\PlayerManagementAPI\PlayerManagementDAL\obj\Debug\net6.0\refint\PlayerManagementDAL.dll
+C:\MyFolder\Interview\CodingTest\PlayerManagementAPI\PlayerManagementDAL\obj\Debug\net6.0\PlayerManagementDAL.pdb
+C:\MyFolder\Interview\CodingTest\PlayerManagementAPI\PlayerManagementDAL\obj\Debug\net6.0\PlayerManagementDAL.genruntimeconfig.cache
+C:\MyFolder\Interview\CodingTest\PlayerManagementAPI\PlayerManagementDAL\obj\Debug\net6.0\ref\PlayerManagementDAL.dll
